@@ -6,6 +6,8 @@ Phenotypic traits consist of:
 Plant height of each sampled (height) measured as as the distance from the ground to the highest flower
 Flower shape in lateral view obtained by a landmark-based geometric morphometrics approach. The first two axes of a Principal Component Analysis retrieve 91.62% of shape variation and the first axis (PC1) retrieves 83.84% of this variation. 
 Operative distance (OD) was obtained from the morphogeometric database by calculating the Euclidean distances between landmarks 1 and 7 using the Procrustes-corrected coordinates adjusted by the centroid size.
+These variables were renamed as height.1, OD.1, and PC1.1 after scaling to zero mean and unit sd.
+
 
 Fitness measures consist of:
 
